@@ -11,4 +11,8 @@ def uniques(list)
   print "\n #{verlist} \n"
 end
 
-uniques(["hi", "hi", "ho", "hei", 1])
+uniques([1,5,"frog", 2,1,3,"frog"])
+
+uniques([1,1,1,2,1,1,1])
+
+uniques(["no", "uniques", "here"])
